@@ -1,8 +1,8 @@
 package plaindoll;
 
 public class Welcomer{
-	public String sayWelcome() {
-		return "Welcome home, good hunter. What is it your desire?";
+	public String sayHi() {
+		return "Hasta la vista, baby hunter.";
 	}
 	public String sayFarewell() {
 		return "Farewell, good hunter. May you find your worth in waking world.";
